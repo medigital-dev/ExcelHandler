@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MedigitalDev\\Ci4Base\\": "src/"
+      "MedigitalDev\\ExcelHandler\\": "src/"
     }
   },
   "require-dev": {
@@ -19,7 +19,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "MedigitalDev\\Ci4Base\\Tests\\": "tests/"
+      "MedigitalDev\\ExcelHandler\\Tests\\": "tests/"
     }
   },
   "scripts": {
