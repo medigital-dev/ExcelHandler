@@ -1,6 +1,6 @@
 <?php
 
-namespace MedigitalDev\Ci4Base\Libraries;
+namespace MedigitalDev\ExcelHandler\Libraries;
 
 use OpenSpout\Common\Entity\Row;
 use OpenSpout\Common\Entity\Style\Color;

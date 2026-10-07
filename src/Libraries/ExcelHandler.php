@@ -1,6 +1,6 @@
 <?php
 
-namespace MedigitalDev\Ci4Base\Libraries;
+namespace MedigitalDev\ExcelHandler\Libraries;
 
 use CodeIgniter\HTTP\Files\UploadedFile;
 use DateTimeInterface;
